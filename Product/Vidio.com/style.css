@@ -776,7 +776,7 @@ body {
 }
 
 #main .is_single article.is_post .price small {
-  background: black;
+  background: white;
   color: white;
   font-size: 60%;
   padding: 5px 10px;
