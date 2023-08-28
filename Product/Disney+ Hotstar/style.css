@@ -794,6 +794,7 @@ body {
   opacity: .6;
   font-size: 80%;
   margin-left: 5px;
+  color: white;
 }
 
 #main .is_single article.is_post .option {
@@ -840,6 +841,7 @@ body {
   height: 40px;
   border: 1px solid var(--border);
   text-align: center;
+  color: white;
 }
 
 #main .is_single article.is_post .option .item.qty fieldset input {
